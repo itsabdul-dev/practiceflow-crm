@@ -1,0 +1,15 @@
+# OS Files
+.DS_Store
+*.swp
+
+# Node
+node_modules/
+
+# Environment Variables
+.env
+.env.local
+
+# Build output
+dist/
+build/
+.next/
